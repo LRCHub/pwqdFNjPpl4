@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Just a Little Step",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T07:09:40.067195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just a Little Step",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_Just_a_Little_Step_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just a Little Step",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_Just_a_Little_Step_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just a Little Step",
+      "artist": "YOASOBI / Midories",
+      "has_synced": true,
+      "path": "select/03_Just_a_Little_Step_YOASOBI___Midories.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もう少しだけ (Just a Little Step)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_もう少しだけ_(Just_a_Little_Step)_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just a Little Step",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Just_a_Little_Step_YOASOBI.txt"
+    }
+  ]
+}
