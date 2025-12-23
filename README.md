@@ -1,0 +1,76 @@
+# YOASOBI – Just a Little Step
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.04] Why don't you trust what you don't always do?
+[00:04.05] How an electric corroborator is here?
+[00:07.62] Good luck everyone, good luck
+[00:10.07] Have a nice day, okay
+[00:20.57] 
+[00:11.48] Most of it I can, most of it I can
+[00:13.80] If I take a step out in the world
+[00:16.24] Sow seeds that are inside of it all
+[00:18.60] I care, so let that flow around
+[00:21.07] I live and recall what each hour I got
+[00:23.46] Today shifts, ending, so charming, you do know how
+[00:27.57] So, that way, all of that joy rolls on to return it to you
+[00:56.57] 
+[00:50.97] I was so on the move again, and this morning
+[00:53.33] When every old scenes appear and pass by me
+[00:55.80] Have to take care of what you're needing me to bring over to you
+[01:00.53] Receiving what you said to notify
+[01:02.40] Attention, never minded, today the fortune was
+[01:05.43] "If you go outside, comfort zone should sway"
+[01:27.93] 
+[01:10.34] And so, I just go about my own
+[01:13.14] Keep it somewhere there in my mind
+[01:15.64] Into another new day
+[01:25.64] 
+[01:18.61] Most of it I can, most of it I can
+[01:21.06] If we take a step out in the world
+[01:23.48] Most of it I can, I do know it, I can
+[01:25.86] In time, we could share some of that love
+[01:28.29] I live and recall each hour I'm on
+[01:30.67] It's lovely, feeling of that day turning around
+[01:34.75] So glad, I'm feeling that joy, it rolls on to return it to you
+[02:05.75] 
+[01:39.98] I got used to the heavy darkness on the screen
+[01:42.54] And I feel as they forgot all about me
+[01:44.82] When I think about it, so unhappy
+[01:47.62] Wonder if I am "necessary"
+[01:49.78] I thought about you and reminded in flashback
+[01:52.27] An urge I need to feel, I could not fight back
+[01:54.64] I take it upon me to leave and go meet you
+[02:02.46] It's all that I need
+[02:12.46] 
+[02:18.55] Maintaining wonder so long for this morning
+[02:20.94] All moments, all the sentiments, and all learnings
+[02:23.40] Before long, on the go, I have quickly just hit the road
+[02:27.47] Suddenly, then, felt a bit of that kindness
+[02:29.62] Then, you got to see it turn into the kindness that I got
+[02:33.67] All out, rolls on to be out, back to you
+[02:53.67] 
+[02:39.03] Most of it I can, most of it I can
+[02:41.48] Since I could step out in the world
+[02:43.81] Most of it I can, oh, to know it, I can
+[02:46.24] Act out of truth, and to be in my heart
+[02:48.62] And now I see that all scenes will resolve
+[02:51.01] As to best suit when it nearly has now arrived
+[02:55.26] Finding all around as it flows
+[03:10.26] 
+[02:57.66] Go on now, from you to my heart, receiving it all
+[03:00.65] I know you've got it coming through
+[03:03.01] Soul focus on us, from me to you now
+[03:05.47] Joy is the feeling spreading around
+[03:07.82] I carry this out and see the colors
+[03:10.29] Through every step out, I see kindness from me now
+[03:14.33] Arriving into lives to play rolls
+[03:16.72] Forever going around as it tolls
+[03:32.72] 
+[03:21.67] Revolving on and on, ahh-ah-ah
+[03:28.19] On to live another day of this life
+[03:30.50] But while you're living in the moment
+[03:32.11] When you find a little piece of joy that you're owed
+[03:35.92] I will be hoping that you will know it
+```
